@@ -17,5 +17,4 @@ echo "TRAPEZIO: ".number_format($F,3,'.','')."\n";
 echo "QUADRADO: ".number_format($G,3,'.','')."\n";
 echo "RETANGULO: ".number_format($H,3,'.','')."\n";
 
-
 ?>
