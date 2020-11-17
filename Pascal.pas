@@ -10,9 +10,9 @@ begin
     f := 0.5 * (a + b) * c;
     g := b * b;
     h := a * b;
-    writeln('TRIANGULO: ',d:-1:3);
-    writeln('CIRCULO: ',e:-1:3);
-    writeln('TRAPEZIO: ',f:-1:3);
-    writeln('QUADRADO: ',g:-1:3);
-    writeln('RETANGULO: ',h:-1:3);
+    writeln('TRIANGULO: ', d:-1:3);
+    writeln('CIRCULO: ', e:-1:3);
+    writeln('TRAPEZIO: ', f:-1:3);
+    writeln('QUADRADO: ', g:-1:3);
+    writeln('RETANGULO: ', h:-1:3);
 end.
